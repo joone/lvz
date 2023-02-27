@@ -1,3 +1,5 @@
+NOTE: This project has been given a new name and has been moved to https://github.com/joone/loz.
+
 # LVZ Project
 
 This is a simple command line chatbot project written in TypeScript using the official ChatGPT API
